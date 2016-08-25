@@ -1,0 +1,14 @@
+layout_spectrum: 0.6281175801996142
+typography_spectrum: 0.10181771288625896
+color:
+  brandStrength: 0.7465371063444763
+  lightness: 0.076680465368554
+  saturation: 0.6631312821991742
+  rhythmicContrast: 0.010777912335470319
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: whatsapt
